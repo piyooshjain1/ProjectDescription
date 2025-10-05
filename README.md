@@ -9,9 +9,11 @@ and risk for a stock with an auditable, repeatable algorithm.
 - Retail investor — wants quick actionable guidance and simple explanations.
 - Active trader — needs short-term momentum signals and confidence metrics.
 
-<img width="912" height="416" alt="image" src="https://github.com/user-attachments/assets/52a91d8b-eb8e-468d-8cf5-22bdf2084624" />
+<img width="1334" height="577" alt="hometab" src="https://github.com/user-attachments/assets/43bf0dac-4808-4cb3-9e70-12d353a975ef" />
 
-<img width="620" height="320" alt="image" src="https://github.com/user-attachments/assets/70815810-128f-4436-809c-4a270b18b723" />
-<img width="581" height="368" alt="image" src="https://github.com/user-attachments/assets/fbc661c8-0805-4cea-bbf0-b27dafe0a60f" />
+<img width="893" height="717" alt="hometab_2" src="https://github.com/user-attachments/assets/79be696f-8007-490b-810d-fad85fe2cd02" />
 
-<img width="617" height="392" alt="image" src="https://github.com/user-attachments/assets/5a850de5-779f-4eb4-b21c-62fb493594ce" />
+<img width="767" height="705" alt="homeptab_3" src="https://github.com/user-attachments/assets/84bcfc7f-aaa6-4a32-afc8-9d37244346ea" />
+
+
+
